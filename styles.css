@@ -1,0 +1,103 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #e2dfdf;
+    padding: 40px;
+
+    position: absolute;
+    width: 1200px;
+    height: 1319px;
+    left: 40px;
+    top: 43px;
+}
+
+aside {
+    background-color: #6D9BF5; 
+
+    position: absolute;
+    width: 370px;
+    height: 1291px;
+    left: 87px;
+    top: 61px;
+}
+
+
+.wrappeer {
+    
+    background: white;
+    width: 1200px;
+}
+
+section {
+    position: absolute;
+    width: 525px;
+    height: 230px;
+    left: 498px;
+    top: 142px;
+
+}
+
+
+/* main-content */
+
+.main-content {
+    padding: 88px;
+
+}
+
+/* About me */
+
+.my-proffession {
+    
+    margin-bottom: 18px;
+
+    position: absolute;
+    width: 262px;
+    height: 20px;
+    left: 498px;
+    top: 609px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+
+h2 {
+    font-size: 14px;
+}
+
+.project-item {
+    color: #6774FF;
+}
+
+h1 {
+   
+    font-size: 45px;
+}
+
+.colortext {
+    color: #6774FF;
+}
+
+.colortext1 {
+   color: #595959;
+}
+
+.project-item1 {
+    color: #A8A8A8;
+}
+
+.my-text {
+    
+    width: 525px;
+    height: 120px;
+    left: 498px;
+    top: 252px;
+    color: #595959;
+}
